@@ -1,0 +1,6 @@
+Gracz2 03
+Gracz1 03
+Gracz3 02
+Gracz23 00
+Gracz12 00
+Gracz6 12
