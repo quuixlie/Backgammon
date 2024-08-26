@@ -3,6 +3,15 @@ Backgammon written in C using the NCurses library.
 
 https://github.com/user-attachments/assets/af1181f8-52cc-41e7-a7bf-3d897110f047
 
+# Game features
+- forcing opponent's pawns to be captured, 
+- forcing the removal of marshmallows from the board,
+- possibility of rematch,
+- player ranking,
+- saving and reading saves.
+- highlighting fields on the board,
+- pleasant to use menu,
+  
 # About
 This game was written during my 1st year computer science studies. A few programming errors that I would now correct in this project are: not hiding external libraries behind its API (move(), printw() etc.), removing magic numbers (second screenshot) and a few more programming errors.
 
